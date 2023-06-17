@@ -1,0 +1,13 @@
+/* Write your code here. */
+.img {
+  opacity: 0.5;
+}
+.button {
+  outline: none;
+  background-color: #ffffff;
+  border-width: 0px;
+}
+
+.li {
+  list-style-type: none;
+}
